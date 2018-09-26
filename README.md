@@ -1,7 +1,7 @@
 # Project
 ## program in C++ (Linux OS)
 ## Problem Description:-
-1. First problem to find the information of top 10 biggest files from a Directory/whole system.
+1. First problem to find top 10 biggest files from a Directory/whole system.
 2. And second one is to move the files from a source directory to folders according to their extensions in to destination directory.
 ## Functions Descriptions:-
 For first problem :-
