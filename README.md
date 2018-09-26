@@ -1,4 +1,4 @@
-# Project
+# PC Desktop Cleaner
 ## program in C++ (Linux OS)
 ## Problem Description:-
 1. First problem to find top 10 biggest files from a Directory/whole system.
